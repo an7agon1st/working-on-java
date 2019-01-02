@@ -45,3 +45,7 @@ class Main {
         tt3.printAll();
     }
 }
+
+// (this) can be used to pass the current class instance as a parameter to a
+// method
+// not demonstrated in this program
